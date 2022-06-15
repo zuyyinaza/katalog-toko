@@ -7,5 +7,5 @@
 
 Tampilan Katalog :
 <br>
-<b>Menu Home<b>
+<b>Menu Home<b><br>
 <img height="300cm" src="https://user-images.githubusercontent.com/74144537/173869710-4abbef12-43e1-4151-9fe1-155e4223b91b.png"/>
