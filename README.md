@@ -8,4 +8,4 @@
 Tampilan Katalog :
 <br>
 
-<img height="100cm" src="https://user-images.githubusercontent.com/74144537/173869710-4abbef12-43e1-4151-9fe1-155e4223b91b.png"/>
+<img height="500cm" src="https://user-images.githubusercontent.com/74144537/173869710-4abbef12-43e1-4151-9fe1-155e4223b91b.png"/>
